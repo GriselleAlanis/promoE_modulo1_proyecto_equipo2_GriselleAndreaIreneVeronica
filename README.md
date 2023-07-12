@@ -28,9 +28,9 @@ Realizar una serie de tablas finales que tengan la información parcialmente pro
 
 ## Librerías utilizadas:
  
-1. os para Python (nos permite acceder a funcionalidades del sistema operativo)
-2. re para Python (para operaciones con expresiones regulares)
-3. xml.etree.ElementTree as ET para XML (para trabajar con datos de ficheros xml)
+1. os para Python (nos permite acceder a funcionalidades del sistema operativo).
+2. re para Python (para operaciones con expresiones regulares).
+3. xml.etree.ElementTree as ET para XML (para trabajar con datos de ficheros xml).
 
 ## Estructura de las carpetas:
 
