@@ -1,4 +1,4 @@
-# PROMO EVELYN: PROYECTO MÓDULO 1
+# PROMO E: PROYECTO MÓDULO 1
 
 ## Integrantes:
 - Andrea Cabrera Quintanilla
